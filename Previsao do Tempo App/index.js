@@ -32,7 +32,7 @@ i18next.use(i18nextHttpBackend).init({
     }
 
     search.addEventListener('click', () => {
-        const APIKey = '679fa7d494e2283fa00c8e9a48e7b0b6';
+        const APIKey = 'sua API';
         const city = document.querySelector('.search-box input').value;
     
         if(city === '')
