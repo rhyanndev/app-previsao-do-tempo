@@ -14,5 +14,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   
 ### Tela de Recife
-![imagem projeto weather app 2](https://github.com/rhyanndev/desafio-de-projeto-repositorio-dio/assets/92160378/4686881a-2053-4f4b-b832-b220df1284ce)
+![imagem projeto weather app 3](https://github.com/rhyanndev/app-previsao-do-tempo/assets/92160378/c6acdf49-eba2-40db-a95e-f70476c54833)
 
